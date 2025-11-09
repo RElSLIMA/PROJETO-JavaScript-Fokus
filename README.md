@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# ⏱️ App de Gestão de Tempo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo desenvolvido com **React Native** e **Expo**, explorando conceitos fundamentais de desenvolvimento mobile.  
+Este projeto foi criado durante o curso **“React Native: desenvolvendo com Expo”**, com o objetivo de praticar o uso de componentes, estados, estilização e interação entre elementos.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Sobre o projeto
 
-   ```bash
-   npm install
-   ```
+O **App de Gestão de Tempo** é um aplicativo mobile que permite criar ciclos de tempo e acompanhar um **cronômetro regressivo funcional**.  
+Durante o desenvolvimento, foram aplicadas boas práticas de componentização, uso de **hooks** como `useState` e manipulação de **listas dinâmicas**, além da estilização com o **StyleSheet** nativo do React Native.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🧠 Aprendizados
 
-In the output, you'll find options to open the app in a
+Neste projeto foram abordados conceitos essenciais, como:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Estrutura de componentes e reuso;  
+- Criação de botões e cronômetro regressivo;  
+- Gerenciamento de estado com `useState`;  
+- Renderização de listas com `.map`;  
+- Uso de ícones SVG e `ActionButton`;  
+- Estilização com Flexbox e StyleSheet.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🛠️ Tecnologias utilizadas
 
-When you're ready, run:
+- **React Native**  
+- **Expo Framework**  
+- **JavaScript (ES6+)**  
+- **React Hooks**  
+- **SVG Icons**  
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🔗 Repositório
 
-## Learn more
+📦 [GitHub - PROJETO-Gestao-de-Tempo](https://github.com/RElSLIMA/PROJETO-JavaScript-Fokus.git)
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 👨‍💻 Autor
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Desenvolvido por **Gabriel**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-reis-b8b152198) • [GitHub](https://github.com/RElSLIMA)
